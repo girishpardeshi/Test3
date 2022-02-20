@@ -26,6 +26,7 @@ public class HomePage extends HeaderPage {
 	{
 		//home.isDisplayed();
 		Genericmethods.checkdisplay(driver, home);
+		System.out.println("girish");
 	}
 	
 }
